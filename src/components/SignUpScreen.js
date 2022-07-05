@@ -8,7 +8,7 @@ export default function SignUpScreen() {
   const [signUpInfo, setSignUpInfo] = useState({});
   const [disabled, setDisabled] = useState(false);
 
-  const URL = "https://projeto13-mywallet-ipt.herokuapp.com/sign-up";
+  const URL = "https://backend-projeto13-mywallet.herokuapp.com/sign-up";
 
   const navigate = useNavigate();
 
