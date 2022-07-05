@@ -12,7 +12,7 @@ export default function NewEntry() {
 
   const { userInfo, entryType } = useContext(UserInfoContext);
 
-  const ENTRY_URL = "https://projeto13-mywallet-ipt.herokuapp.com/entry";
+  const ENTRY_URL = "https://backend-projeto13-mywallet.herokuapp.com/entry";
 
   const navigate = useNavigate();
 
