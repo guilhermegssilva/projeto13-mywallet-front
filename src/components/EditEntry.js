@@ -12,7 +12,7 @@ export default function NewExit() {
   const [disabled, setDisabled] = useState(false);
   const { userInfo } = useContext(UserInfoContext);
 
-  const EDIT_URL = "https://projeto13-mywallet-ipt.herokuapp.com/entry";
+  const EDIT_URL = "https://backend-projeto13-mywallet.herokuapp.com/entry";
 
   const navigate = useNavigate();
 
