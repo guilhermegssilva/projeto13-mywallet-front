@@ -33,8 +33,7 @@ The following tools and frameworks were used in the construction of the project:
 ## How to run
 
 1. Clone this repository
-2. Clone the back-end repository at https://github.com/my-user/my-project-backend
-3. Follow instructions to run back-end at https://github.com/my-user/my-project-backend
+2. Clone the back-end repository 
 4. Install dependencies
 ```bash
 npm i
@@ -47,4 +46,4 @@ npm start
 ```bash
 npm run build
 ```
-7. Finally access http://localhost:3000 on your favorite browser (unless it is Internet Explorer. In this case, review your life decisions)
+7. Finally access http://localhost:3000
